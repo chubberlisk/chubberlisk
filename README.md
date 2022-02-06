@@ -1,9 +1,3 @@
-<p>
-  <a href="https://github.com/chubberlisk/website">
-    <img src="./icon-512x512.png" alt="Logo" width="80" height="80">
-  </a>
-</p>
-
 <h1>Wen Ting Wang</h1>
 
 <p>

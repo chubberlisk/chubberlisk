@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/chubberlisk/website">
+    <img src="./icon-512x512.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
 
-<!--
-**chubberlisk/chubberlisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Wen Ting Wang</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm a software engineer based in London, UK. Currently, I'm working at 
+  <a
+    href="https://madetech.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-made-tech"
+  >
+    Made Tech
+  </a> helping to build services for the public sector.
+  <br />
+  <br />
+  <a href="https://wentingwang.co.uk">View Site</a>
+  ·
+  <a href="https://wentingwang.co.uk/#paintings">View Terrible Paintings</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./i-am-tingker-bell.png" alt="4 panel comic. In the top left panel, Tingker Bell's face is at the forefront with a cute smile on a yellow background. In the top right panel, Tingker Bell's face is at the forefront with a straight mouth on a blue background. In the bottom left panel, Tingker Bell's face is at the forefront with a big smile on a pink background. In the bottom right panel, Tingker Bell's face is at the forefront with a shocked expression on a green background." width="256" height="256">
+</p>

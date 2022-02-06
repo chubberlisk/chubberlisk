@@ -7,6 +7,9 @@
 <h1 align="center">Wen Ting Wang</h1>
 
 <p align="center">
+  Hi there! 👋 My name is <b>Wen Ting Wang</b>, but just call me <b>Ting</b>.
+  <br/>
+  <br/>
   I'm a software engineer based in London, UK. Currently, I'm working at 
   <a
     href="https://madetech.com"

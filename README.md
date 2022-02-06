@@ -18,9 +18,9 @@
   </a> helping to build services for the public sector.
   <br />
   <br />
-  <a href="https://wentingwang.co.uk">View Site</a>
+  <a href="https://wentingwang.co.uk">View site</a>
   ·
-  <a href="https://wentingwang.co.uk/#paintings">View Terrible Paintings</a>
+  <a href="https://wentingwang.co.uk/#paintings">View terrible paintings</a>
 </p>
 
 <p align="center">

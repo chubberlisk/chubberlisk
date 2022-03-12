@@ -2,7 +2,7 @@
 
 Hi there! 👋 My name is **Wen Ting Wang**, but just call me **Ting**.
 
-I'm a software engineer based in London, UK. Currently, I'm working at [Made Tech](https://madetech.com) helping to build services for the public sector.
+I'm a software engineer based in London, UK. Currently, I'm working at [Made Tech](https://madetech.com) helping to build services for the public sector and making Ting puns.
 
 [View site](https://wentingwang.co.uk) · [View terrible paintings](https://wentingwang.co.uk/#paintings)
 
